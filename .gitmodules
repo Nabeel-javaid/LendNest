@@ -1,0 +1,9 @@
+[submodule "packages/contracts/LendNest-math-lib"]
+	path = packages/contracts/LendNest-math-lib
+	url = git@github.com:LendNest-protocol/LendNest-math-lib.git
+[submodule "packages/contracts/lib/forge-std"]
+	path = packages/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "packages/services/graph-node"]
+	path = packages/services/graph-node
+	url = git@github.com:LendNest-protocol/graph-node.git
