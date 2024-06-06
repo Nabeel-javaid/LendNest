@@ -87,6 +87,3 @@ To set up the repo locally, you will need `yarn` and `node v16`:
 
 Run tests locally:
 - Run `yarn contracts test`
-
-## Additional Documentation
-Get more info here: https://LendNest.gitbook.io/LendNest-v2/
